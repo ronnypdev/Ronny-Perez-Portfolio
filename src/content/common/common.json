@@ -1,15 +1,15 @@
 {
-    "name": "Hrishikesh Paul",
+    "name": "Ronny Perez",
     "logoType": {
         "mobile": "HP",
-        "desktop": "Hrishikesh Paul"
+        "desktop": "Ronny Perez"
     },
     "mainPicture": "/assets/HP.webp",
     "mainPictureJPG": "/assets/HP.jpeg",
     "pronunciation": "/ri-shi-kaysh/",
     "audioFile": "/assets/name-pro.mp3",
     "cssVarPrefix": "hp",
-    "email": "hrishikeshpaul12@gmail.com",
+    "email": "ronnypjobs@gmail.com",
     "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
     "github": "https://github.com/hrishikeshpaul",
     "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
@@ -24,7 +24,7 @@
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:ronnypjobs@gmail.com"
         }
     ]
 }

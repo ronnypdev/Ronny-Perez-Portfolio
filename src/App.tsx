@@ -49,8 +49,8 @@ export const App: FC = () => {
                         <PageHeader label="Featured Projects" />
                         <FeaturedProjects />
 
-                        <PageHeader id="page-other-projects" label="Other Projects" />
-                        <OtherProjects />
+                        {/* <PageHeader id="page-other-projects" label="Other Projects" />
+                        <OtherProjects /> */}
                     </Box>
 
                     <Box id={AboutPageId}>

@@ -1,10 +1,15 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+I'm a _Product-focused Front End Software Engineer_ with a proven track record in developing high-quality, scalable front-end solutions across various platforms and products. I translate complex requirements into functional, user-centric web applications using advanced technologies like **HTML5**, **CSS3**, **JavaScript ES6+**, **React.js**, **TypeScript**, **Next.js** and **Tailwind CSS**. Adept at enhancing website performance and integrating digital technologies to meet business objectives.
 
-I'm currently working with,
+I'm current tech stack is, but i'm always open to learning
 
--   React (TS)
--   NodeJS
--   Flask (Python)
--   HTML/SCSS
--   WebSockets
+-   HTML5/CSS3
+-   SCSS
+-   JavaScript ES6
+-   React.js
+-   TypeScript
+-   Next.js
+-   Tailwind CSS
 -   GraphQL
+-   Shopify Theme Development/Hydrogen
+-   Vite.js
+-   Sanity CMS
