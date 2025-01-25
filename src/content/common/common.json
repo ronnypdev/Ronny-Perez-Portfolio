@@ -4,23 +4,23 @@
         "mobile": "HP",
         "desktop": "Ronny Perez"
     },
-    "mainPicture": "/assets/HP.webp",
-    "mainPictureJPG": "/assets/HP.jpeg",
-    "pronunciation": "/ri-shi-kaysh/",
+    "mainPicture": "/assets/face.webp",
+    "mainPictureJPG": "/assets/face.jpg",
+    "pronunciation": "/ron-ny/",
     "audioFile": "/assets/name-pro.mp3",
     "cssVarPrefix": "hp",
     "email": "ronnypjobs@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
-    "github": "https://github.com/hrishikeshpaul",
+    "linkedin": "https://www.linkedin.com/in/ronny-perez-083b9152/",
+    "github": "https://github.com/ronnypdev",
     "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
+            "link": "https://www.linkedin.com/in/ronny-perez-083b9152/"
         },
         {
             "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
+            "link": "https://github.com/ronnypdev"
         },
         {
             "type": "mail",
