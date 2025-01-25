@@ -1,18 +1,18 @@
 {
     "name": "Ronny Perez",
     "logoType": {
-        "mobile": "HP",
+        "mobile": "RP",
         "desktop": "Ronny Perez"
     },
     "mainPicture": "/assets/face.webp",
     "mainPictureJPG": "/assets/face.jpg",
     "pronunciation": "/ron-ny/",
-    "audioFile": "/assets/name-pro.mp3",
+    "audioFile": "/assets/pro_name.mp3",
     "cssVarPrefix": "hp",
     "email": "ronnypjobs@gmail.com",
     "linkedin": "https://www.linkedin.com/in/ronny-perez-083b9152/",
     "github": "https://github.com/ronnypdev",
-    "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
+    "resume": "https://drive.google.com/file/d/1PHX-VH2L2ebwslzoGrUQObk_94tL-Wgc/view?usp=sharing",
     "socials": [
         {
             "type": "linkedin",
