@@ -80,7 +80,7 @@ export const FeaturedProjectCard: FC<Props> = ({
                         data-aos-delay="100"
                         data-aos-offset="200"
                     >
-                        {year} • {location}
+                        {/* {year} • {location} */}
                     </Text>
 
                     <Box
@@ -108,7 +108,7 @@ export const FeaturedProjectCard: FC<Props> = ({
                     <Tags tags={tags} id={id} />
                 </Box>
 
-                <ProjectCardFooter readMore={readMore} github={github} demo={demo} />
+                <ProjectCardFooter github={github} demo={demo} />
             </Flex>
 
             <Box

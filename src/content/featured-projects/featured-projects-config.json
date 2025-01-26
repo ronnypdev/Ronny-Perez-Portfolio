@@ -1,64 +1,59 @@
 [
     {
         "id": "featured-project-trackcta",
-        "title": "trackCTA",
+        "title": "Quizzical React",
         "year": "Dec 2021 - Present",
         "location": "Chicago",
-        "demo": "https://www.trackcta.com/",
-        "github": "https://github.com/hrishikeshpaul/trackcta",
-        "tags": ["React", "TypeScript", "NodeJS", "Web Sockets", "i18n", "Google Maps", "GCP", "CI/CD", "Shell"],
-        "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
-        "image": "/assets/featured-projects/trackcta.webp",
-        "jpg": "/assets/featured-projects/trackcta.jpeg"
+        "demo": "https://quizzical-app-lyart.vercel.app/",
+        "github": "https://github.com/ronnypdev/Quizzical-App",
+        "tags": ["React.js", "Vite.js", "Tailwind CSS", "Trivia API"],
+        "description": "A trivia Quiz app that allow user to select an answer if the answer is wrong the correct will be automatically highlighted green and the wrong will be highlighted red at the end it will provide the user with a score. ",
+        "image": "/assets/featured-projects/quizzical-design.webp",
+        "jpg": "/assets/featured-projects/quizzical-design.jpeg"
     },
     {
         "id": "featured-project-asctb-reporter",
-        "title": "ASCT+B Reporter",
+        "title": "Dice Roll Game",
         "year": "Jun 2020 - Jun 2021",
         "location": "Indiana University",
-        "demo": "https://hubmapconsortium.github.io/ccf-asct-reporter/",
-        "github": "https://github.com/hrishikeshpaul/ccf-asct-reporter",
-        "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
-        "description": "A collaboration with the NIH to build visualization tool to envision large biomedical datasets for researchers, doctors and experts.",
+        "demo": "https://roll-dice-game-eight.vercel.app/",
+        "github": "https://github.com/ronnypdev/Roll-Dice-Game",
+        "tags": ["React.js", "Vite.js", "Tailwind CSS"],
+        "description": "Fun Dice Roll game which has a timer and keeps track of the best score",
         "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
-        "image": "/assets/featured-projects/asctb.webp",
-        "jpg": "/assets/featured-projects/asctb.jpeg"
+        "image": "/assets/featured-projects/tenzies.webp",
+        "jpg": "/assets/featured-projects/tenzies.jpeg"
     },
     {
         "id": "featured-project-scrapbook",
-        "title": "Scrapbook",
+        "title": "GitHub User Search App",
         "year": "Jan 2021 - May 2021",
         "location": "Indiana University",
 
         "tags": [
-            "Angular 11",
-            "Flask",
-            "Node",
-            "Python",
+            "React.js",
             "TypeScript",
-            "Docker",
-            "Docker Hub",
-            "Jenkins",
-            "Kubernetes",
-            "GKE",
-            "GCP"
+            "Vite.js",
+            "Tailwind CSS"
         ],
-        "demo": "http://34.69.102.109/",
-        "github": "https://github.com/hrishikeshpaul/scrapbook",
-        "description": "A micro-service architecture based web application that enables users to upload, share and manage images.",
+        "demo": "https://github-search-user-app-three.vercel.app/",
+        "github": "https://github.com/ronnypdev/Github-search-user-app",
+        "description": "In this project, I used the GitHub users API to pull profile data and display it.",
         "readMore": "https://hrishikeshpaul.medium.com/scrapbook-a-micro-service-based-photo-sharing-application-3a8760681af6",
-        "image": "/assets/featured-projects/scrapbook.webp",
-        "jpg": "/assets/featured-projects/scrapbook.jpeg"
+        "image": "/assets/featured-projects/github.webp",
+        "jpg": "/assets/featured-projects/github.jpeg"
     },
     {
         "id": "featured-project-measure-ux",
         "location": "Indiana University",
-        "title": "Measuring User Experience",
+        "title": "Star Rating Component",
+        "demo": "https://star-rating-component-inky.vercel.app/",
+        "github": "https://github.com/ronnypdev/Star-Rating-Component",
         "year": "Sep 2020 - Dec 2020",
-        "tags": ["UX Research", "User Journey", "Experience Mapping", "Surveys", "Interviews", "Adobe XD"],
-        "description": "A project to quantify user experiences demonstrated by measuring the user experience of uploading a photo on Instagram.",
+        "tags": ["React.js", "TypeScript", "Vite.js", "Tailwind CSS"],
+        "description": "A Star Rating Component that display different messages depending on the star rating.",
         "readMore": "https://hrishikeshpaul.medium.com/measuring-user-experience-an-instagram-case-study-89bfb78f2c6b",
-        "image": "/assets/featured-projects/measure-ux.webp",
-        "jpg": "/assets/featured-projects/measure-ux.jpeg"
+        "image": "/assets/featured-projects/star-rating.webp",
+        "jpg": "/assets/featured-projects/star-rating.jpeg"
     }
 ]
