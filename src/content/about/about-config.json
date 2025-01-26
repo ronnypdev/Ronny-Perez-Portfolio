@@ -1,100 +1,99 @@
 {
     "educations": [
         {
-            "id": "edu-1",
-            "school": "Indiana University",
-            "degree": "Master of Science in Computer Science",
-            "duration": "Aug 2019 - May 2021",
-            "content": [
-                "GPA: 4/4",
-                "Courses: Software Engineering, Distributed Systems, Operating Systems, Advanced Algorithms, Experience Design"
-            ]
-        },
-        {
             "id": "edu-2",
-            "school": "Manipal University",
-            "degree": "Bachelors in Computer Engineering",
-            "duration": "Aug 2015 - Jul 2019",
+            "school": "New York Institute of Technology",
+            "degree": "Computer Science, B.S.",
+            "duration": "Sep 2009 - May 2014",
             "content": [
-                "GPA: 8/10",
-                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence"
+                "GPA: 3.0"
             ]
         }
     ],
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Reputation",
-            "position": "Software Engineer (Frontend)",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "Blue Acorn iCi",
+            "position": "Front End Software Engineer",
+            "duration": "Aug 2022 - Aug 2023",
             "description": [
-                "Revamping the current report generation framework using React, that aggregates data from 30 modules to support an interactive cartesian system.​",
-                "Integrated user activity data from BigQuery into a custom tailored dashboard available to 10000+ clients.",
-                "Spearheaded the work on multiple reports for 5 priority clients to provide additional functionalities."
+                "Implemented a solution for the Cumulative Layout Shift (CLS) score to drop from 0.23 to 0.05, which improved the page load speed for the Home page, Product Description page, and Collections page, across mobile and desktop devices​",
+                "Built a Gift With Purchase feature with React.js for premium members, this feature led to more conversions from premium members",
+                "Solved a bug in the legacy Shopify CLI that was preventing new team members on M Macs from getting their Development up and running quickly",
+                "Built a “Product Added To Cart” toast notifications for mobile devices with React.js, which improved overall conversions on mobile and reduced abandoned cart issues on mobile by 7%"
             ]
         },
         {
             "id": "exp-2",
-            "company": "CNS (NIH), Indiana University",
-            "position": "Software Engineer",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "The Stable BVA",
+            "position": "Front End Engineer",
+            "duration": "Feb 2021 - Jul 2022",
             "description": [
-                "Developed state of the art visualization tools for researchers and doctors to envision large biological datasets using ​Angular 11​, Node & Vega.​",
-                "Devised an algorithm to compute statistics that highlight anomalies in the data and displayed them on an intuitive interface.",
-                "Created detailed UX flows, experience maps, wire-frames and conducted interviews across various biological consortia to enhance user experience."
+                "Built custom software solutions on the Shopify Plus platform, which allowed top DTC Brands such as OOFOS, Chubbies Shorts, YLANG 23, and more to sell their products and services to thousands of customers worldwide.​",
+                "Migrated the entire codebase of the Chubbies store from an old CSS, jQuery, and outdated plugins codebase to Modern SASS, JavaScript ES6, React.js, and the Shopify 2.0 CLI",
+                "Debugged and tested out the client's Shopify stores regularly to enhance overall performance"
             ]
         },
         {
             "id": "exp-3",
-            "company": "Skylark Drones",
-            "position": "Software Engineer Intern",
-            "duration": "Jan 2019 - Jun 2019",
+            "company": "Blue Acorn iCi",
+            "position": "Front End Software Engineer(Contract)",
+            "duration": "Oct 2020 - Jan 2021",
             "description": [
-                "Developed a web app for mission planning, control and execution using Vue & Flask, thereby improving onside project performance by 22%.​",
-                "Designed an icon set for various functionalities using ​Illustrator​, which improved usability by 20%."
+                "Built part of the “Buy Now Pay Later” feature for the Bluemercury cosmetic DTC brand, which resulted in $2.5 million in sales for the 2020 Black Friday Weekend​",
+                "Built the Homepage, Collections page, and Product Description for the Amala Beauty DTC brand"
             ]
-        }
+        },
+        {
+          "id": "exp-4",
+          "company": "RPM",
+          "position": "Full Stack Web Engineer",
+          "duration": "Sep 2019 - Sep 2020",
+          "description": [
+              "Built custom WordPress Themes for famous Broadways plays such as Hamilton, Mrs. Doubtfire & Waitress ​",
+              "Built a custom WordPress Plugin that allowed Marketers and Editors to create custom templates to run marketing campaigns and edit content on the fly."
+          ]
+      },
+      {
+        "id": "exp-5",
+        "company": "Crain Communications",
+        "position": "Full Stack Web Developer",
+        "duration": "Jun 2018 - Aug 2019",
+        "description": [
+            "Developed a variety of responsive websites for all Crain brands using a PHP/MYSQL-based custom CMS. ​",
+            "Built a custom WYSIWYG tool for the Adage Marketing team to run marketing campaigns, which resulted in more pay subscriber conversions."
+        ]
+      },
+      {
+        "id": "exp-6",
+        "company": "Vibelyst, Inc",
+        "position": "Junior Front End Engineer",
+        "duration": "Jan 2017 - May 2018",
+        "description": [
+            "Built & implemented new features based on user requirements & functional specs for the Vibelyst platform ​",
+            "Built reusable modular interactive UI Components using JavaScript/SASS/BEM and other methodologies",
+            "Provided support for the marketing team in their project needs & other requirements"
+        ]
+      }
     ],
     "skills": [
         {
-            "title": "Programming",
+            "title": "Software Dev Skills: ",
             "tools": [
+                "JavaScript ES6+",
                 "TypeScript",
-                "JavaScript",
-                "Python",
-                "C/C++",
-                "Java",
-                "NoSQL",
+                "React.js",
+                "Redux.js",
+                "Next.js",
+                "HTML5/CSS3",
                 "SQL",
-                "Shell",
-                "React Native",
-                "Vega (D3.js)"
+                "Tailwind CSS",
+                "GraphQL"
             ]
         },
-        {
-            "title": "Web",
-            "tools": ["React", "Angular 11", "Vue", "NodeJS", "Flask", "Redux", "NGXS", "HTML/CSS", "OAuth", "i18n"]
-        },
-        {
-            "title": "Databases",
-            "tools": ["MongoDB", "Redis", "MySQL", "Firebase"]
-        },
-
         {
             "title": "OS & Tools",
-            "tools": ["MacOS", "Linux", "Git", "Agile (Scrum)", "MVC", "Jenkins", "Heroku", "Docker", "Kubernetes"]
-        },
-        {
-            "title": "Design & Research",
-            "tools": [
-                "Surveys",
-                "Interviews",
-                "User Research",
-                "Design Strategy",
-                "Experience Mapping",
-                "Adobe XD",
-                "Illustrator"
-            ]
+            "tools": ["MacOS", "Linux", "Git/GitHub", "Agile (Scrum)", "JIRA", "iTerm/Terminal", "VS Code", "Figma", "Vercel"]
         }
     ],
     "blog": [

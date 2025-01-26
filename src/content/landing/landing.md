@@ -3,7 +3,7 @@ I'm a _Front End Software Engineer_ with a proven track record in developing hig
 I'm current tech stack is, but i'm always open to learning
 
 -   HTML5/CSS3
--   SCSS
+-   Redux.js
 -   JavaScript ES6
 -   React.js
 -   TypeScript
@@ -13,3 +13,4 @@ I'm current tech stack is, but i'm always open to learning
 -   Shopify Theme Development/Hydrogen
 -   Vite.js
 -   Sanity CMS
+-   SQL
