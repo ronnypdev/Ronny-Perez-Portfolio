@@ -26,7 +26,7 @@ export const Footer: FC = () => {
                 </Heading>
             </Flex>
             <Text>
-                If you want to know more about my experiences and journey, or just talk in general, get in touch! ✌️
+                If you need to hire a solid Front End Software Engineer please feel free to contact me ✌️
             </Text>
             <Box pt="16">
                 <Socials delay={100} exclude={["mail"]} />
